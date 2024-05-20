@@ -73,6 +73,7 @@ dependencies:
   location: ^4.3.0
   geocoding: ^2.0.4
   google_maps_flutter: ^2.1.4
+  checkout_screen_ui: ^1.0.1
 
 
 
